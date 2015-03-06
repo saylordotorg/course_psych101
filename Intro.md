@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH101-EXC: Introduction to Psychology"
+course_description: "A Ddtailed introduction to the fundamental principles of psychology and to the major subjects of psychological inquiry."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PSYCH101-EXC: Introduction to Psychology"
 --------------------------------------------------------------
 

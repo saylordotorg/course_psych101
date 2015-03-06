@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH101-EXC: Introduction to Psychology"
+course_description: "A Ddtailed introduction to the fundamental principles of psychology and to the major subjects of psychological inquiry."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Sensation, Perception, and Consciousness** <span
 id="4"></span> 
 *As human beings, we perceive our world through our senses. This means

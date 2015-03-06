@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH101-EXC: Introduction to Psychology"
+course_description: "A Ddtailed introduction to the fundamental principles of psychology and to the major subjects of psychological inquiry."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The History and Methods of Psychology** <span id="1"></span> 
 *“Psychology has a long past but a short history.” This brief statement
 by one of the pioneers of psychological research, Herman Ebbinghaus,

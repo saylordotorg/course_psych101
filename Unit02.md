@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH101-EXC: Introduction to Psychology"
+course_description: "A Ddtailed introduction to the fundamental principles of psychology and to the major subjects of psychological inquiry."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Nature and Nurture of Behavior** <span id="2"></span> 
 *What makes you “you”? This question gets to the heart of one of the
 longest-running debates in psychology: the nurture versus nature

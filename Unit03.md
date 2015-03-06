@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH101-EXC: Introduction to Psychology"
+course_description: "A Ddtailed introduction to the fundamental principles of psychology and to the major subjects of psychological inquiry."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Biology of Psychology** <span id="3"></span> 
 *Early psychologists considered the brain a “black box” that controlled
 certain processes, though they did not know how to identify these

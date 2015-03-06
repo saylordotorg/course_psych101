@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH101-EXC: Introduction to Psychology"
+course_description: "A Ddtailed introduction to the fundamental principles of psychology and to the major subjects of psychological inquiry."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Learning and Memory** <span id="5"></span> 
 *Psychologists are concerned with how people learn and create memories
 of their experiences. For example, early psychologists such as Ivan

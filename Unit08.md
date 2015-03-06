@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH101-EXC: Introduction to Psychology"
+course_description: "A Ddtailed introduction to the fundamental principles of psychology and to the major subjects of psychological inquiry."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Psychopathology** <span id="8"></span> 
 *Today, we commonly think of psychology as a means of treating mental
 disorders. However, the branch of psychology that addresses these

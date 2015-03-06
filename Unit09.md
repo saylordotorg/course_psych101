@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH101-EXC: Introduction to Psychology"
+course_description: "A Ddtailed introduction to the fundamental principles of psychology and to the major subjects of psychological inquiry."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Final Exam** <span id="9"></span> 
 -   **Final Exam: The Saylor Foundation’s “PSYCH101 Final Exam”**
 

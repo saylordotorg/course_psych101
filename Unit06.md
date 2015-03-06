@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH101-EXC: Introduction to Psychology"
+course_description: "A Ddtailed introduction to the fundamental principles of psychology and to the major subjects of psychological inquiry."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Development** <span id="6"></span> 
 *The physical, mental, and emotional changes that an individual
 undergoes over the course of his or her lifetime raise a number of

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH101-EXC: Introduction to Psychology"
+course_description: "A Ddtailed introduction to the fundamental principles of psychology and to the major subjects of psychological inquiry."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Social Psychology** <span id="7"></span> 
 *Human beings are social beings. As psychologists, we acknowledge this
 fact by studying the ways in which an individual’s social environment
